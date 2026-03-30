@@ -1,0 +1,21 @@
+[tool.ruff]
+line-length = 79
+target-version = "py313"
+exclude = [".venv", "dist", "*.egg-info", "build", ".gitignore"]
+fix = true
+unsafe-fixes = false
+
+[tool.ruff.lint]
+select = ["E", "W", "D", "PL", "BLE", "F", "I"]
+extend-select = ["ANN", "B", "UP"]
+preview = true
+
+[tool.ruff.lint.pydocstyle]
+convention = "pep257"
+
+[tool.ruff.format]
+quote-style = "single"
+indent-style = "space"
+
+[tool.ruff.lint.isort]
+known-first-party = ["coffee_machine"]
