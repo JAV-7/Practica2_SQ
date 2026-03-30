@@ -1,4 +1,3 @@
 ./venv
 ./.ruff_cache
-./coffee_machine/__pycache__
-./pyproject.toml
+pyproject.toml
