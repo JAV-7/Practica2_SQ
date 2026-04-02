@@ -14,7 +14,7 @@ from unittest.mock import patch
 
 from machine_operations import PASSWORD, deposit_money, withdraw_money
 
-from coffee_machine import (
+from src import (
     MENU,
     create_coffee_machine,
     fill_the_machine,

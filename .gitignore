@@ -1,2 +1,4 @@
 ./venv
 ./.ruff_cache
+ruff-report.json
+sonar-project.properties

@@ -7,6 +7,7 @@ Coffee machine module.
 Manage resources and coffee making.
 """
 
+
 from machine_operations import set_amount
 
 # Resource maximums

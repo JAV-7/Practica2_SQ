@@ -1,0 +1,6 @@
+projectKey=JAV-7_Practica2_SQ_a9e8786d-670a-4564-9994-f75492b4a001
+serverUrl=http://localhost:9000
+serverVersion=26.3.0.120487
+dashboardUrl=http://localhost:9000/dashboard?id=JAV-7_Practica2_SQ_a9e8786d-670a-4564-9994-f75492b4a001
+ceTaskId=92bbaff1-a203-40fa-b90e-9bc433b79f58
+ceTaskUrl=http://localhost:9000/api/ce/task?id=92bbaff1-a203-40fa-b90e-9bc433b79f58

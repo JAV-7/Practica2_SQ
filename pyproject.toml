@@ -2,7 +2,7 @@
 line-length = 79
 target-version = "py313"
 exclude = [".venv", "dist", "*.egg-info", "build", ".gitignore"]
-fix = true
+fix = false
 unsafe-fixes = false
 
 [tool.ruff.lint]

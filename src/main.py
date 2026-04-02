@@ -10,7 +10,7 @@ from machine_operations import deposit_money, exit_program, withdraw_money
 from menu_utils import press_enter_to_continue, read_option
 from test_runner import run_random_tests_from_main
 
-from coffee_machine import (
+from src import (
     create_coffee_machine,
     fill_the_machine,
     make_coffee,
