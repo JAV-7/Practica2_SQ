@@ -19,3 +19,6 @@ indent-style = "space"
 
 [tool.ruff.lint.isort]
 known-first-party = ["coffee_machine"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
